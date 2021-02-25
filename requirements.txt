@@ -1,0 +1,4 @@
+BeautifulSoup4
+requests
+lxml
+pyTelegramBotApi==3.7.1
