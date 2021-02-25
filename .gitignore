@@ -1,5 +1,5 @@
-/telega_token.py
+telega_token.py
 venv
-/file_json.json
-/info_link.txt
-/info_usd.txt
+file_json.json
+info_link.txt
+info_usd.txt
